@@ -1,4 +1,4 @@
----
+
 title: "Learn in Public"
 subtitle: "The most effective way to bootstrap your career and much more..."
 cover_local: "../../assets/images/e16d59ad-4c11-4ca0-8bfc-5a9d147c6c2e.jpeg"
@@ -8,7 +8,6 @@ date: "2020-10-19T16:36:30+00:00"
 tags: ["react","controlled inputs","uncontrolled inputs"]
 canonical: ""
 
----
 
 If you are interested in learning to code efficiently but fast, you should do it in public, this is not a theory but a fact.  
 In this article I'm going to try explain why it works and how you can do it.
